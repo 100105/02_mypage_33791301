@@ -1,11 +1,14 @@
 {
-    "name": "02_mypage_33791301",
+    "name": "simple_server",
     "version": "1.0.0",
-    "description": "my personal page",
+    "description": "A basic Node.js HTTP server built by Sara, a CS student at Goldsmiths.",
     "main": "index.js",
     "scripts": {
-      "test": "echo\"Error: no test specified\" && exit 1"
+      "start": "node index.js",
+      "test": "echo \"No tests defined\" && exit 0"
     },
     "author": "Sara",
     "license": "ISC"
+   
   }
+  
