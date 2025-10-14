@@ -1,0 +1,4 @@
+cd 02_mypage_33791301
+git pull 
+forever stopall
+forever start index.js
