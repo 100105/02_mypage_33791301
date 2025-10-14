@@ -12,8 +12,8 @@ http.createServer(function(req, res) {
 </head>
 <body>
     <h1>My name is Sara.</h1>
-    <h2>I'm twenny</h2>
-    <p>I have 6 people in my family and they are all annoying.</p>
+    <h2>I'm 20</h2>
+    <p>I have 6 people in my family.</p>
 </body>
 </html>`);
 }).listen(port, function() {
